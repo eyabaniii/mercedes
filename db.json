@@ -1,0 +1,44 @@
+{
+  "collection": [
+    {
+      "image": "/src/assets/CE.webp",
+      "titre": "MERCEDES-BENZ CLASSE E ",
+      "prix": " À partir de 247 000 DT",
+      "id": 1,
+      "description": "La voiture  est une berline avec une garantie de 2 ans, 5 places et 4 portes, avec un moteur essence de 4 cylindres de 1497 cm³ produisant une puissance de 156 ch et un couple de 250 nm à 1200 tr/min, une boîte de transmission automatique à 9 rapports et une propulsion. Ses dimensions sont de 4935 mm de longueur, 1852 mm de largeur et 1460 mm de hauteur, avec un volume de coffre de 540 L. Il atteint une vitesse maximale de 228 km/h et une accélération de 0 à 100 km/h en 8,9 s, avec une consommation mixte de 8,5 L/100 km. Il est équipé d'ABS, d'airbags frontaux, latéraux et rideaux, d'ESP, d'Attention Assist, de connectivité USB, Apple Carplay, Android Auto, Bluetooth et commande vocale, d'un écran, de finitions intérieures en alu poli, de lumières d'ambiance LED, d'une sellerie en Dinamica et similicuir, de sièges avec réglage lombaire, d'un toit ouvrant panoramique, d'un volant en cuir multifonctions et d'une aide au stationnement avec radars de recul et avant et caméra de recul, entre autres fonctionnalités.",
+      "i1": "/src/assets/e1.webp",
+      "i2": "/src/assets/e2.webp",
+      "i3": "/src/assets/e3.webp"
+    },
+    {
+      "image": "/src/assets/CA.webp",
+      "titre": "MERCEDES-BENZ CLASSE A ",
+      "prix": " À partir de 180 000 DT",
+      "id": 2,
+      "description": "La voiture  est une compacte avec une garantie de 2 ans, 5 places et 5 portes, une motorisation de 4 cylindres essence de 1332 cm³ et une puissance fiscale de 7 CV, ainsi qu'une transmission automatique à 7 rapports et une traction; elle mesure 4419 mm de longueur, 1907 mm de largeur et 1423 mm de hauteur, a un volume de coffre de 370 L, une vitesse maximale de 215 km/h et une consommation mixte de 5,4 L/100 km; elle dispose également d'équipements de sécurité tels que l'ABS, les airbags frontaux, latéraux, rideaux et genoux conducteur, l'ESP, l'ASR, l'AFU, le BAS, le détecteur de fatigue et les fixations ISOFIX, et d'équipements intérieurs tels que l'autoradio avec commandes au volant, la connectivité USB-C, Apple Carplay, Android Auto, Bluetooth et commande vocale, l'écran tactile de 10,1 pouces, les sièges sport, le volant en cuir multifonction, les phares full LED, la climatisation automatique, le régulateur de vitesse TEMPOMAT et les vitres électriques avant/arrière.",
+      "i1": "/src/assets/a1.webp",
+      "i2": "/src/assets/a2.webp",
+      "i3": "/src/assets/a3.webp"
+    },
+    {
+      "id": 3,
+      "titre": "MERCEDES-BENZ CLASSE S",
+      "prix": " À partir de 699 900 DT",
+      "image": "/src/assets/CS.webp",
+      "description": "La voiture est une berline avec 5 places et 4 portes, une motorisation essence/hybride léger de 6 cylindres, une transmission automatique intégrale à 9 rapports, une consommation mixte de 7,8 L/100km, des équipements de sécurité tels que l'ABS, les airbags, l'anti-patinage, l'assistance au freinage et au maintien dans la voie, ainsi que des équipements intérieurs tels que l'autoradio MBUX, la connectivité USB/Bluetooth/Android Auto/Apple CarPlay, les sièges électriques/chauffants/ventilés, la climatisation automatique 4 zones, les rétroviseurs électriques/rabattables/dégivrants/éclairés à LED, les jantes en aluminium de 19 pouces, les feux Full LED et une suspension pneumatique Airmatic.",
+      "i1": "/src/assets/s1.webp",
+      "i2": "/src/assets/s2.webp",
+      "i3": "/src/assets/s3.webp"
+    },
+    {
+      "id": 4,
+      "titre": "MERCEDES-BENZ CLASSE C",
+      "prix": " À partir de 264 900 DT",
+      "image": "/src/assets/CC.png",
+      "description": "La voiture est une berline avec 4 portes et 5 places, disponible en essence ou en hybride léger, avec une puissance de 170 chevaux, une cylindrée de 1496 cm³ et une consommation mixte de 6.2 L/100 km ; elle est équipée de nombreux dispositifs de sécurité tels que des airbags, un système ABS et ESP, ainsi que d'équipements intérieurs tels qu'un écran tactile de 11.9 pouces, des sièges en similicuir électriques et une climatisation automatique bizone.",
+      "i1": "/src/assets/c1.webp",
+      "i2": "/src/assets/c2.webp",
+      "i3": "/src/assets/c3.webp"
+    }
+  ]
+}
